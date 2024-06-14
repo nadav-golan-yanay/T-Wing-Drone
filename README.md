@@ -17,6 +17,15 @@ Finally, a huge thank you to my girlfriend, Daria Hebron. Thank you for your sup
 ## Proof of success / Flight tests
 It took almost a year from when I first thought about the drone concept until I managed to take off with it. I've uploaded all of my flight tests to my YouTube channel [NJGeek](https://www.youtube.com/channel/UCFTb9_tvUnTDQ8KEI29btOw). You can see them all in the playlist [T-Wing Flight test](https://youtube.com/playlist?list=PLqjej9Hx4NUbdtqtBohuQlDSfjigC6vUl&si=ENThvdS27YvLaflj). Enjoy.
 
-###Successful Flights
+### Successful Flights
 I define a successful flight as a flight that the drone tookoff, landed and wasn't demaged.
-My First successful flight was in May 19th 2023
+#### First Flight
+My First successful flight was in May 19th 2023, you can see it in this video [ניסויי טיסה - 19.05.2024 - Flight Test
+](https://youtu.be/v9YFX8xqOcs). Here you can see a small example:
+
+https://github.com/nadav-golan-yanay/T-Wing-Drone/assets/78790309/edb56a76-8f06-4417-a14c-41ca4fd376b4
+
+In this video you can see the first **______ (bal bla bla)**
+
+#### Secound Flight
+After my first flight 
