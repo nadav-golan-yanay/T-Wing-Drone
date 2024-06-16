@@ -21,11 +21,13 @@ It took almost a year from when I first thought about the drone concept until I 
 I define a successful flight as a flight that the drone tookoff, landed and wasn't demaged.
 #### First Flight
 My First successful flight was in May 19th 2023, you can see it in this video [ניסויי טיסה - 19.05.2024 - Flight Test
-](https://youtu.be/v9YFX8xqOcs). Here you can see a small example:
+](https://youtu.be/v9YFX8xqOcs). Here you can see a small part from the video:
 
 https://github.com/nadav-golan-yanay/T-Wing-Drone/assets/78790309/edb56a76-8f06-4417-a14c-41ca4fd376b4
 
-In this video you can see the first **______ (bal bla bla)**
+My conclusion from the first flight were:
+- 
+
 
 #### Secound Flight
-After my first flight 
+After my first flight draw conclusions,
