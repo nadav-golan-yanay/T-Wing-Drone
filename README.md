@@ -26,8 +26,13 @@ My First successful flight was in May 19th 2023, you can see it in this video [×
 https://github.com/nadav-golan-yanay/T-Wing-Drone/assets/78790309/edb56a76-8f06-4417-a14c-41ca4fd376b4
 
 My conclusion from the first flight were:
-- 
+- bla bla bla I need to finish this----------------------------------------------------------------------------------
 
 
 #### Secound Flight
 After my first flight draw conclusions,
+
+
+
+## Parts and 3D models
+You can see 
