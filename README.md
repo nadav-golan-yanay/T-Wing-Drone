@@ -1,4 +1,4 @@
-# T-Wing-Drone
+![image](https://github.com/nadav-golan-yanay/T-Wing-Drone/assets/78790309/77c388f1-8c59-424d-82a8-7c71859d7329)# T-Wing-Drone
 *T-Wing* is a drone that I built in my final year in the Robotics program at Gvanim High School. The drone has three motors, each on a different servo that rotates the motor.
 
  **image**
@@ -35,4 +35,18 @@ After my first flight draw conclusions,
 
 
 ## Parts and 3D models
-You can see 
+You can see all of the models in the [3D models folder](https://github.com/nadav-golan-yanay/T-Wing-Drone/tree/0b038b9dfee622c4904f3aa1510728cdbde3ab1c/V22%20full%20assembly%203D%20files).
+I used [onshape](https://www.onshape.com/en/) for the 3D modeling and [FlashForge Printers](https://flashforge.com/) for the 3D printing.
+
+![TWing-Full-V22](https://github.com/nadav-golan-yanay/T-Wing-Drone/assets/78790309/63dcac5a-7471-424a-bd80-f48f89bf449f)
+This image shows the full assembly of the drone. The drone is built from four main parts: the body and three wings. I used PLA filament as my main material; some parts are 3D printed from ABS filament, and there are a few carbon fiber bars that connect all the parts together. At the end of each wing, you can see big circles. These indicate the length of the drone propellers, showing where the propellers would be.
+
+### Motor holder
+![Exploded_Motor_Holder](https://github.com/nadav-golan-yanay/T-Wing-Drone/assets/78790309/eb4dbcce-7ec2-4fd4-9dbd-57e81f796824)
+
+The motor holder is connected to the wing with a carbon fiber bar. At first, I tried to drill a hole in the bar, but it broke. In this version of the drone, the motor holder connects to the bar with a clamp. I wrapped the carbon fiber with electrical tape to reduce the sliding of the motor holder. This method worked better than I expected. The PLA is flexible and strong enough that it doesn't break, and it holds the motor in place.
+
+The motor holder is built from three different parts. The blue part in the image is the main part; it's the base of the motor holder and is 3D printed from PLA filament. The black parts are the clamps that secure the motor holder in place, also printed from PLA filament. The white parts are spacers between the motor and the motor holder, printed from ABS filament.
+
+In one of the first flight tests, I discovered that the motor heats up to a point where the PLA under it melts. My first solution was to print the motor holder from ABS filament, but I learned that its layer adhesion isn't good, and the part broke when I started the motors. The second solution I tried was to add spacers (the blue parts) between the PLA and the motor. The spacers are 3D printed from ABS filament, which is more resistant to heat than PLA. This solution worked at first, but over time, the PLA melted under the ABS. The third solution came from my teacher, Oded Valensi. He suggested adding parchment paper between the base (blue part) and the spacers (white parts) to further isolate the heat. This worked, and I managed to run the motors for a long time.
+
