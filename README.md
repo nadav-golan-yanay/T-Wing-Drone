@@ -1,4 +1,4 @@
-![image](https://github.com/nadav-golan-yanay/T-Wing-Drone/assets/78790309/77c388f1-8c59-424d-82a8-7c71859d7329)# T-Wing-Drone
+# T-Wing-Drone
 *T-Wing* is a drone that I built in my final year in the Robotics program at Gvanim High School. The drone has three motors, each on a different servo that rotates the motor.
 
  **image**
