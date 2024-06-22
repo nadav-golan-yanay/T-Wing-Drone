@@ -50,3 +50,17 @@ The motor holder is built from three different parts. The blue part in the image
 
 In one of the first flight tests, I discovered that the motor heats up to a point where the PLA under it melts. My first solution was to print the motor holder from ABS filament, but I learned that its layer adhesion isn't good, and the part broke when I started the motors. The second solution I tried was to add spacers (the blue parts) between the PLA and the motor. The spacers are 3D printed from ABS filament, which is more resistant to heat than PLA. This solution worked at first, but over time, the PLA melted under the ABS. The third solution came from my teacher, Oded Valensi. He suggested adding parchment paper between the base (blue part) and the spacers (white parts) to further isolate the heat. This worked, and I managed to run the motors for a long time.
 
+### Servo Arm Adaptor
+**image**
+
+To connect the servo to the carbon fiber bar that the motor is siting on I crated an adaptor. The desgin of the adaptor is uniq becouse it uses a spacial fitcher of 3D printing - the printer stops the printing in a cirtin layer, the servo arm is insert to it and than the printings is continue.
+
+I used the adventure 3 printer becouse of it's grate accuracy, even when I touched the printer platform when I incert the servo arm I didn't demaged the printing quality. I used the **Flashforge** slicer, here is the function in the slicer **to be continued**
+
+
+## Borad and Microcontrollers
+
+In my last version of the drone I used the pixhawk 4 mini flight controller (link).
+In here you can see a tabel of all of the borada and microcontrollers that I used:
+
+ESP32 | Arduino uno | Archer 6 | PH4 mini
