@@ -64,3 +64,8 @@ In my last version of the drone I used the pixhawk 4 mini flight controller (lin
 In here you can see a tabel of all of the borada and microcontrollers that I used:
 
 ESP32 | Arduino uno | Archer 6 | PH4 mini
+| :
+
+Chip  | SCK  |  MISO  |  MOSI  |  CE  |  CSN  |  VCC  |  GND
+|  :---  | :---: | :---: | :---: | :---: | :---: | :---: | ---: |
+Arduino Uno  |  13 | 12 | 11 | 5 | 4 | 3V3 | GND
