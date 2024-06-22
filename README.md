@@ -63,9 +63,12 @@ I used the adventure 3 printer becouse of it's grate accuracy, even when I touch
 In my last version of the drone I used the pixhawk 4 mini flight controller (link).
 In here you can see a tabel of all of the borada and microcontrollers that I used:
 
-ESP32 | Arduino uno | Archer 6 | PH4 mini
-| :
+Parameter | ESP32 | Arduino uno | Archer 6 | PH4 mini
+| :--- | :---: | :---: | :---: | ---: |
+memorie sizw?|x|x|x|x
+code |C++|c++|?|ardupilot
+Drone version|||earlies|latest
 
-Chip  | SCK  |  MISO  |  MOSI  |  CE  |  CSN  |  VCC  |  GND
-|  :---  | :---: | :---: | :---: | :---: | :---: | :---: | ---: |
-Arduino Uno  |  13 | 12 | 11 | 5 | 4 | 3V3 | GND
+## Code and Pramrameters
+
+You can see the code and the parameters in the folder [
