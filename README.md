@@ -63,11 +63,20 @@ I used the adventure 3 printer becouse of it's grate accuracy, even when I touch
 In my last version of the drone I used the pixhawk 4 mini flight controller (link).
 In here you can see a tabel of all of the borada and microcontrollers that I used:
 
-Parameter | ESP32 | Arduino uno | Archer 6 | PH4 mini
-| :--- | :---: | :---: | :---: | ---: |
-memorie sizw?|x|x|x|x
-code |C++|c++|?|ardupilot
-Drone version|||earlies|latest
+Parameter | ESP32 | Arduino uno | PH4 mini
+| :--- | :---: | :---: | :---: |
+Memory Flash | 520 kB | 32kB | 2MB
+Code |C++|c++| ardupilot
+Weight | 10g | 25g | 37.2g
+I/O Voltage	| 3.3V | 5V | 5V
+
+### Why i used ESP and Arduino
+
+The main reason I used ESP and Arduino in my project is due to budget constraints. The robotics program couldn't fund this entire project, so I had to seek donations.
+
+At first, I didn't feel the need to look for an investor or donor. I managed with the ESP and Arduino boards that the school provided me, and I even made significant progress with them. Using these boards, I created my own [radio system](https://github.com/nadav-golan-yanay/com.git), a system that operates the motors and servos ([Extender](https://github.com/nadav-golan-yanay/Extender.git)), as well as a [PID](https://github.com/nadav-golan-yanay/PID.git) code. I concluded that I needed to find another way after several experiments in which I tried to find PID values that would stabilize the drone. I approached several companies to consult with them on how to find these values. Ultimately, with the help of Efix-Aviation, I realized that I needed to replace the boards with a Pixhawk flight controller. They agreed to donate one of their old ones and teach me the basics of working with it.
+
+I recommend using ESP and Arduino for prototyping. The fact that I needed to create my own code for everything helped me understand my project better and made me a master of the things I coded.
 
 ## Code and Pramrameters
 
