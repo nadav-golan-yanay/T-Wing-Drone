@@ -98,7 +98,7 @@ This project was originally documented as a full project book in Hebrew for the 
 It includes the design process, engineering decisions, manufacturing notes, and flight-test development timeline behind T-Wing.
 You can read it here:
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRpgUPn3u3C4NKBrrm5369ePE8NgqHe6AcITnAAplzpBRE5xgx34mOA12HqonQQBGQqTkdLsOp1IHl_/pub?embedded=true"></iframe>
+https://docs.google.com/document/d/e/2PACX-1vRpgUPn3u3C4NKBrrm5369ePE8NgqHe6AcITnAAplzpBRE5xgx34mOA12HqonQQBGQqTkdLsOp1IHl_/pub
 
 ## Acknowledgments
 
