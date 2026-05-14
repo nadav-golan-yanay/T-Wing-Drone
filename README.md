@@ -92,6 +92,11 @@ This repository includes the configuration artifacts used in the project:
 
 > **Safety note:** Flight parameters and firmware should be reviewed and adapted for your frame, propulsion system, and local safety rules before use.
 
+## Original Hebrew project book
+
+This project was originally documented as a full project book in Hebrew for the school robotics program.  
+It includes the design process, engineering decisions, manufacturing notes, and flight-test development timeline behind T-Wing.
+
 ## Acknowledgments
 
 I’m deeply grateful to everyone who helped make this project possible:
