@@ -96,10 +96,14 @@ This repository includes the configuration artifacts used in the project:
 
 I’m deeply grateful to everyone who helped make this project possible:
 
-- Teachers and mentors, especially **Gal Arbel** and **Oded Valensi**
-- My parents and family for continuous support
-- **Efi Kastiel** and **Efix-Aviation** for equipment support and guidance
-- Friends and students who helped with building, testing, filming, and reviews
-- My classmates and project partners for technical and moral support
+In this project, I received help from many people, whom I would like to thank. First and foremost, I would like to thank my subject teachers, [Gal Arbel](https://github.com/galarb) and [Oded Valensi](). Whether in modeling, programming, manufacturing, or writing the report, Gal and Oded were always by my side and supported me. Thank you for helping to push me to the limits of my abilities and beyond; under your guidance, even the sky is not the limit.
+
+I want to extend my gratitude to my parents who supported me throughout the entire project and encouraged me to pursue this field. Thank you for every model airplane and drone you bought me, each one helped me gain the knowledge that enabled me to build this project. Many thanks to [Efi Kastiel](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAADLQAJUBAUvj69bxqbnr-7TJYAfVfe6obSc&keywords=efi%20kastiel&origin=RICH_QUERY_SUGGESTION&position=0&searchId=0ba67cb9-c28c-4535-bafa-e0ef54953f92&sid=DP1&spellCorrectionEnabled=false) from [Efix-Aviation](https://www.linkedin.com/company/efixaviation/?originalSubdomain=il), who donated equipment and provided training regarding the drone. A big thank you to [Ariel Dubrovinski](), who guided me on how to use the Pixhawk controller and how to work with PID systems.
+
+Thank you to the students from grades 9 and 7: [Tomer Ozer](https://github.com/TomerOzer), [Noam Ron](https://github.com/NoamRon1), [Yehav Kosi Friedman](https://github.com/yahavkosoi), [Dan Katzenellenbogen](https://github.com/Dan-Katzenellenbogen), [Yoav Aharoni](), [Neta Shen-Or](), [Hadas Rahman](), and [Yoav Paz](https://github.com/YoavPaz). Thank you for your help in building the project and supporting the code, whether it was just holding a part while I drilled or reviewing the code. You all helped greatly, and for that, I thank you.
+
+A special thank you to [Roee Glotman](https://github.com/Roee-dev), my classmate, who was my partner at the beginning of the project. Many thanks to my fellow students in the subject: [Yotam Sharon](), [Daniel Shor](), [Dror Chen](), [Ori Zalgman](), [Daniel Semelik](https://github.com/DanielSmelik), [Yuval Rahman](), [Eran Salomon]() and [Raviv Klein](https://github.com/raviviviviv). Thank you very much for the help and support, for being with me during flight tests, for helping me film, and for letting me print before you so I could progress. Thank you very much to the school for the lab and project funding.
+
+Finally, a huge thank you to my (ex)girlfriend, Daria Hebron. Thank you for your support and understanding. Thank you for every glass of water or toast you brought me in the late hours of the night when I was sitting at the computer working, thank you for letting me use your car to transport equipment, and thank you for all the emotional support you provided during all the difficulties.
 
 Thank you all for helping turn this idea into a flying system.
